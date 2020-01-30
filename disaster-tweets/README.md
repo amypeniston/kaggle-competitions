@@ -12,3 +12,5 @@
 * 2: [Data Cleaning](https://github.com/amypeniston/kaggle-competitions/blob/master/disaster-tweets/2_Data_Cleaning.ipynb)
 * 3: [Model Experimentation](https://github.com/amypeniston/kaggle-competitions/blob/master/disaster-tweets/3_Model_Experimentation.ipynb)
 * 4: [BERT Model](https://github.com/amypeniston/kaggle-competitions/blob/master/disaster-tweets/4_BERT.ipynb)
+
+**Link to Kaggle:** [https://www.kaggle.com/c/nlp-getting-started](https://www.kaggle.com/c/nlp-getting-started)
