@@ -6,6 +6,7 @@
 
 **Links to My Work:**
 
-* 1: [Exploratory Data Analysis]()
+* 1: [Exploratory Data Analysis](https://github.com/amypeniston/kaggle-competitions/blob/master/house-prices/1_EDA.ipynb)
+* 2: [Data Preprocessing & Modeling](https://github.com/amypeniston/kaggle-competitions/blob/master/house-prices/2_Data_Prep_Modeling.ipynb)
 
 **Link to Kaggle:** [https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)

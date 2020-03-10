@@ -1,5 +1,12 @@
 # Kaggle Competitions
 
+### House Prices
+
+**The Challenge:** Predict the price of homes in Ames, Iowa using 79 explanatory variables.
+
+* [Project Code](https://github.com/amypeniston/kaggle-competitions/tree/master/house-prices)
+* [View on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
 ### Disaster Tweets
 
 **The Challenge:** Predict whether there is a real disaster using the content of social media posts.
